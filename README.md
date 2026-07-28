@@ -114,10 +114,4 @@ From a business standpoint, this segmentation enables the mall's management to d
 
 ---
 
-## 📬 Submission Info
 
-| Field | Detail |
-|---|---|
-| **Deadline** | 29 July 2026, 11:59 PM IST |
-| **Platform** | Google Colab |
-| **Repo Visibility** | Public (until evaluation completed) |
